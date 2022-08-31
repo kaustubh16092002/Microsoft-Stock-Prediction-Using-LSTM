@@ -1,7 +1,7 @@
 # Microsoft-Stock-Prediction-Using-LSTM
 LSTM prediction of stock data for Microsoft. Year(2021 March to 2022 Matrch) 
 There are two different files one is implemented on long term data set from 1986-03-18' to '2022-03-23 and the 
-other being from '2021-03-25' to '2022-03-23'
+other is implemented for '2021-03-25' to '2022-03-23'
 
 The LSTM prediction is done for the next three days setting a target for present day and next three days. The prediction was accurate for short term dataset 
 and was not good for long term dataset. 
